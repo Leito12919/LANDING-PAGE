@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=BioRhyme&family=IBM+Plex+Mono&family=Monoton&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
 
 * {
     margin: 0;
@@ -48,7 +48,7 @@ h2, h3 {
 }
 
 .price {
-    color: blueviolet;
+    color: yellowgreen;
     font-size: 22px;
 }
 
@@ -57,7 +57,7 @@ h2, h3 {
     outline: 0;
     padding: 12px;
     color: white;
-    background-color:blueviolet;
+    background-color:black;
     text-align: center;
     cursor: pointer;
     width: 100%;
@@ -102,7 +102,7 @@ h2, h3 {
 }
 
 .price-product {
-    color: blueviolet;
+    color: greenyellow;
     font-size: 1.5rem;
     font-weight: 500;
     padding-top: 1rem;
@@ -115,7 +115,7 @@ h2, h3 {
     outline: 0;
     padding: 12px;
     color: white;
-    background-color:blueviolet;
+    background-color:black;
     text-align: center;
     cursor: pointer;
     width: 150px;

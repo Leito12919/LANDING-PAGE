@@ -2,7 +2,7 @@
     {
       "id": "pc1",
       "nombre": "EPSON ECOTANK L3250",
-      "imagen": "./img/L3150_690X460_1-botellas-T544.jpg",
+      "imagen": "./img/epsonl.jpg",
       "descripcion": "Impresora inálámbrica multifunción con wifi negra 100V/240V",
       "descripcionLarga": "Imprime, escanea y hace copias / Impresión doble faz manual / Tecnología de impresión: inyección de tinta / Tiene entrada USB / Cuenta con 2 bandejas / Capacidad máxima de 100 hojas.",
       "precio": "385.000"
@@ -10,46 +10,46 @@
   
     {
       "id": "pc2",
-      "nombre": "Ryzen 5",
-      "imagen": "./img/ryzen-5.jpg",
-      "descripcion": "Pc Gamer Amd Ryzen 5, 4750g, 8gb, Ddr4, Ssd 240gb",
-      "descripcionLarga": "Computadora AMD Ryzen 5, 6 nuclos, 4.4 GHZ, Mother MSI A320M, Tarjeta grafica integrada Radeom Vega 8, memoria RAM DDR 4 16GB, Disco sólido de 240GB.",
-      "precio": "350.000"
+      "nombre": "HP LASERJET 107A",
+      "imagen": "./img/hphp.jpg",
+      "descripcion": "Impresora simple función blanca y negra 220V - 240V",
+      "descripcionLarga": "Es monocromática / Impresión doble faz manual / Tecnología de impresión: láser / Posee pantalla LED para visualizar el proceso / Tiene entrada USB / Cuenta con 2 bandejas / Capacidad máxima de 150 hojas.",
+      "precio": "152.999"
     },
   
     {
       "id": "pc3",
-      "nombre": "Ryzen 7",
-      "imagen": "./img/ryzen-7.jpg",
-      "descripcion": "Pc Gamer Amd Ryzen 7, 5700g, 16gb, Ddr4, Ssd 480gb",
-      "descripcionLarga": "Computadora AMD Ryzen 7, 12 nuclos, 4.8 GHZ, Mother MSI A320M, Tarjeta grafica integrada Radeom Vega 8, memoria RAM DDR 4 16GB, Disco sólido de 480 GB.",
-      "precio": "450.000"
+      "nombre": "CANON PIXMA G3110",
+      "imagen": "./img/pix.jpg",
+      "descripcion": "Impresora multifunción con wifi negra 110V/220V",
+      "descripcionLarga": "Impresora multifunción: imprime, copia y escanea con facilidad / Conexión WiFi: imprime desde cualquier dispositivo sin cables / Alta resolución: hasta 4800 dpi x 1200 dpi en color / Velocidad de impresión: 8.8 ppm en blanco y negro, 5 ppm en color / Versátil: admite diversos tipos y tamaños de papel / Capacidad de 100 hojas: imprime grandes volúmenes sin recargar",
+      "precio": "277.999"
     },
   
     {
       "id": "pc4",
-      "nombre": "Intel i5",
-      "imagen": "./img/Intel-I5.jpg",
-      "descripcion": "Pc Gamer Intel I5, 12400f, 16gb, 1tb, Ssd, Rtx 3060",
+      "nombre": "BROTHER SERIES HL-1212W-",
+      "imagen": "./img/brother.jpg",
+      "descripcion": "Impresora láser monocromática de alta calidad",
       "descripcionLarga": "Computadora Intel i5 12400, 4.9 GHZ, Cache 12MB, Mother H410, memoria RAM DDR 4 16GB, Disco sólido de 480 GB.",
-      "precio": "600.000"
+      "precio": "142.280,70"
     },
   
     {
       "id": "pc5",
-      "nombre": "Intel i7",
-      "imagen": "./img/Intel-I7.jpg",
-      "descripcion": "Pc Gamer Core I7, 12700k, 16gb, 64gb, Ddr5, Rtx 3060",
-      "descripcionLarga": "Computadora Intel i7 12700, 4.9 GHZ, Cache 12MB, Mother H510, Video GEFORCE NVIDIA G210, memoria RAM DDR 4 16GB, Disco sólido de 480 GB.",
-      "precio": "800.000"
+      "nombre": "BROTHER MFC-J6955DW",
+      "imagen": "./img/impbig.jpg",
+      "descripcion": "Impresora de inyección de tinta A3 color blanca",
+      "descripcionLarga": "Tiene entrada USB / Práctica y funcional tanto para uso personal como profesional.",
+      "precio": "552.500"
     },
   
     {
       "id": "pc6",
-      "nombre": "Intel i9",
-      "imagen": "./img/Intel-I9.jpg",
-      "descripcion": "Pc Gamer Core I9, 12900k, 16gb, 64gb, Ddr5, Rtx 3090",
-      "descripcionLarga": "Computadora Intel i9 12900, 4.9 GHZ, Cache 12MB, Mother H510, Video GEFORCE NVIDIA GTX 1660, memoria RAM DDR 4 16GB, Disco sólido de 480 GB.",
-      "precio": "1.100.000"
+      "nombre": "RICOH P 311 P311",
+      "imagen": "./img/ricoh.jpg",
+      "descripcion": "Impresora blanco y negro con tóner alternativo",
+      "descripcionLarga": "Impresión monocromática / velocidad de impresión 33 ppm / Método de impresión doble faz automático / con puerto usb / tipo de pantalla: LCD / Duración del producto: 324 meses",
+      "precio": "199.628"
     }
   ]

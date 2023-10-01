@@ -1,8 +1,14 @@
-const destacado = JSON.parse(localStorage.getItem("producto"));
+const productoElegido = sessionStorage.getItem("id");
+console.log(productoElegido);
+
+const destacado = JSON.parse(localStorage.getItem("productos"));
+console.log(destacado)
 
 const mostrarProducto = document.querySelector("#producto-elegido");
- 
+
+
 destacado.forEach((product) => {
+    if(product.id == productoElegido){
     let content = document.createElement("div");
     content.className = "card2";
     content.innerHTML = `
@@ -19,8 +25,8 @@ destacado.forEach((product) => {
             ${product.estrellas}
         </div>
     `;
-
     mostrarProducto.append(content);
-});
+}
 
-localStorage.removeItem(productoElegido);
+
+});
