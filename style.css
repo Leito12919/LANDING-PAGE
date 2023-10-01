@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BioRhyme&family=IBM+Plex+Mono&family=Monoton&family=Pacifico&display=swap');
 
 * {
     margin: 0;
@@ -8,14 +8,14 @@
 }
 
 main {
-    background-image: url("./img/fondo.jpg");
+    background-image: url("./img/Fondogrisnegro.jpg");
 }
 
 h1 {
     text-align: center;
     font-size: 2.5rem;
     font-weight: 900;
-    color: blueviolet;
+    color: rgb(17, 113, 119);
 }
 
 h2, h3 {
